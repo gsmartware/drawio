@@ -1,9 +1,63 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="第 1 页" id="AF7Ue8Hxm1wPqUZRAzeQ">
-    <mxGraphModel>
+    <mxGraphModel dx="1584" dy="604" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="k5SlWRVh9dKqzkCyvaQE-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-25" y="507" width="614" height="244" as="geometry" />
+        </mxCell>
+        <mxCell id="k5SlWRVh9dKqzkCyvaQE-2" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="k5SlWRVh9dKqzkCyvaQE-1">
+          <mxGeometry width="614" height="239" as="geometry" />
+        </mxCell>
+        <mxCell id="k5SlWRVh9dKqzkCyvaQE-3" value="media-server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="k5SlWRVh9dKqzkCyvaQE-1">
+          <mxGeometry x="213" y="5" width="139" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k5SlWRVh9dKqzkCyvaQE-4" value="libsip" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="k5SlWRVh9dKqzkCyvaQE-1">
+          <mxGeometry x="49" y="52" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k5SlWRVh9dKqzkCyvaQE-5" value="libdash" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="k5SlWRVh9dKqzkCyvaQE-1">
+          <mxGeometry x="300" y="69" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k5SlWRVh9dKqzkCyvaQE-6" value="libflv" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="k5SlWRVh9dKqzkCyvaQE-1">
+          <mxGeometry x="450" y="63" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k5SlWRVh9dKqzkCyvaQE-7" value="libmkv" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="k5SlWRVh9dKqzkCyvaQE-1">
+          <mxGeometry x="49" y="170" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k5SlWRVh9dKqzkCyvaQE-8" value="libhls" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="k5SlWRVh9dKqzkCyvaQE-1">
+          <mxGeometry x="300" y="187" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k5SlWRVh9dKqzkCyvaQE-9" value="libmov" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="k5SlWRVh9dKqzkCyvaQE-1">
+          <mxGeometry x="185" y="63" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k5SlWRVh9dKqzkCyvaQE-10" value="libmpeg" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="k5SlWRVh9dKqzkCyvaQE-1">
+          <mxGeometry x="450" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k5SlWRVh9dKqzkCyvaQE-11" value="librtmp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="k5SlWRVh9dKqzkCyvaQE-1">
+          <mxGeometry x="300" y="136" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k5SlWRVh9dKqzkCyvaQE-12" value="librtp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="k5SlWRVh9dKqzkCyvaQE-1">
+          <mxGeometry x="49" y="120" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k5SlWRVh9dKqzkCyvaQE-13" value="librtsp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="k5SlWRVh9dKqzkCyvaQE-1">
+          <mxGeometry x="450" y="181" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k5SlWRVh9dKqzkCyvaQE-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="60" width="690" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="k5SlWRVh9dKqzkCyvaQE-15" value="ZLToolKit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k5SlWRVh9dKqzkCyvaQE-16" value="s地方" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k5SlWRVh9dKqzkCyvaQE-17" value="水电费" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k5SlWRVh9dKqzkCyvaQE-18" value="水电费" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
